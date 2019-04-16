@@ -52,10 +52,10 @@ https://frontendmasters.com/books/front-end-handbook/2018/
 https://frontendmasters.com/books/front-end-handbook/2019/
 
 
-Concept
+### Concept
 Google web fundamentals https://developers.google.com/web/fundamentals/
 
-JS
+### JS
 You Don’t Know JS https://github.com/getify/You-Dont-Know-JS
 
 33 concepts every JavaScript developer should know. https://github.com/leonardomso/33-js-concepts
@@ -73,24 +73,24 @@ React原理解析 https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS
 Vue.js
 Vue.js 源码分析 https://github.com/ustbhuangyi/vue-analysis
 
-CSS
+### CSS
 High-level guidelines for writing manageable, maintainable CSS https://cssguidelin.es/
 
-mobile
+### mobile
 https://github.com/jtyjty99999/mobileTech
 
 腾讯移动web前端知识库 https://github.com/AlloyTeam/Mars
 
 
 
-design patterns
+### design patterns
 Javascript Patterns http://shichuan.github.io/javascript-patterns/
 
-算法
+### 算法
 Algorithms and data structures implemented in JavaScript with explanations and links to further readings https://github.com/trekhleb/javascript-algorithms
 
 
-node
+### node
 饿了么 node.js实践教程 https://github.com/ElemeFE/node-practice
 
 Node interview of ElemeFE https://github.com/ElemeFE/node-interview
@@ -99,7 +99,7 @@ Node interview of ElemeFE https://github.com/ElemeFE/node-interview
 
 koa guide https://github.com/guo-yu/koa-guide
 
-performance
+### performance
 https://github.com/thedaviddias/Front-End-Performance-Checklist
 
 
@@ -119,20 +119,20 @@ Awesome lists about all kinds of interesting topics https://github.com/sindresor
 wasm资源精选 https://github.com/chai2010/awesome-wasm-zh
 
 
-tools
+### tools
 git
-https://github.com/pcottle/learnGitBranching
+- https://github.com/pcottle/learnGitBranching
  
-高质量的Git中文教程 https://github.com/geeeeeeeeek/git-recipes
+- 高质量的Git中文教程 https://github.com/geeeeeeeeek/git-recipes
 
 
-safety
+## safety
 https://github.com/Snowming04/The-Hacker-Playbook-3-Translation
 
 Various public documents, whitepapers and articles about APT campaigns https://github.com/kbandla/APTnotes
 
 
-big data
+## big data
 https://github.com/elastic/elasticsearch-definitive-guide
 
 https://github.com/elasticsearch-cn/elasticsearch-definitive-guide
@@ -142,7 +142,7 @@ ebook
 一些高质量电子书资源分享 https://github.com/threerocks/studyFiles
 
 
-papers
+## papers
 
 计算广告论文、学习资料、业界分享 https://github.com/wzhe06/Ad-papers
 
@@ -155,7 +155,7 @@ https://github.com/trimstray/the-book-of-secret-knowledge
 
 https://github.com/InterviewMap/CS-Interview-Knowledge-Map
 
-
+## language
 java
 https://github.com/Snailclimb/JavaGuide
 
@@ -166,22 +166,22 @@ PHP
 Learn Laravel https://github.com/johnlui/Learn-Laravel-5
 
 
-deep learning
-https://github.com/scutan90/DeepLearning-500-questions
+## deep learning
+- https://github.com/scutan90/DeepLearning-500-questions
 
-动手学深度学习 https://github.com/d2l-ai/d2l-zh
+- 动手学深度学习 https://github.com/d2l-ai/d2l-zh
 
-算法面试笔记 https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
+- 算法面试笔记 https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
 
 
-os
+## os
 How to create an OS from scratch https://github.com/cfenollosa/os-tutorial
 
 
-后端架构师技术图谱
+## 后端架构师技术图谱
 https://github.com/xingshaocheng/architect-awesome
 
-bitcoin
+## bitcoin
 https://github.com/bitcoinbook/bitcoinbook
 
 
